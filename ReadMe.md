@@ -1,4 +1,5 @@
-# Mini-Projects
+# Mini-Projects That I Completed
+
 ### Basic Info:
 * Most of the mini-projects are done on paperspace (using my Github account) and three on Databricks (for Spark/SQL related ones)
 * For paperspace projects, log into my paperspace account (using my Github account)
