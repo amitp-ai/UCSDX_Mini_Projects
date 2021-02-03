@@ -28,3 +28,5 @@
 
 6. **data_wrangling_at_scale_with_spark_6-4-1 (PySpark)**  
 	"For this project, you will continue using Databricks and work with real-world datasets from NASA HTTP logs. The purpose of this project is to become familiar with both structured and unstructured data, analyze large-scale data with Spark, practice more advanced wrangling and cleaning techniques, and try your hand at data transformation."
+
+	This is a good project on doing ETL at scale using Pyspark. In particular, a large dataset containing over 3 million records of web server logs is downloaded (i.e. extracted/sourced) from NASA's website. Each record is a raw string that is transformed into 7 distinct columns/fields using Regular Expressions. The dataset is further transformed by dropping/imputing null values. Finally the data is saved (i.e. loaded) in two different formats, csv and json, for future use. 
