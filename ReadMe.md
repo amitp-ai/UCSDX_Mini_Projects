@@ -1,7 +1,7 @@
 # Mini-Projects
 ### Basic Info:
 * Most of the mini-projects are done on paperspace (using my Github account) and three on Databricks (for Spark/SQL related ones)
-* For paperspace projects, log into my paperspace account (using Github)
+* For paperspace projects, log into my paperspace account (using my Github account)
 * For Spark projects
 	download project from: 
 	(https://drive.google.com/drive/folders/1VoweKytaQW_rnoro5EyalsC3w6WTDvPp) 
