@@ -25,5 +25,5 @@
 5. **sql_with_spark_5-6-6 (Spark/SQL)**  
 	"For this project, you will use Databricks and work through a series of exercises using Spark SQL. The purpose of this project is to help you familiarize yourself with the Spark SQL interface, which scales easily, making it great for working with huge datasets. However, because we don’t want you to have to worry about changing your SQL queries, the dataset you will be working with is not very large."
 
-6. **data_wrangling_at_scale_with_spark_6-4-1 (Spark)**
+6. **data_wrangling_at_scale_with_spark_6-4-1 (Spark)**  
 	"For this project, you will continue using Databricks and work with real-world datasets from NASA HTTP logs. The purpose of this project is to become familiar with both structured and unstructured data, analyze large-scale data with Spark, practice more advanced wrangling and cleaning techniques, and try your hand at data transformation."
