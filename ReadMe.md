@@ -11,6 +11,8 @@
 
 ---
 
+### Project Info:
+
 1. **mec-3.4.1-use-apis-to-retrieve-data (API)**  
 	"It’s time to hone your APIs skills by working on a mini-project"
 
