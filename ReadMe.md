@@ -32,3 +32,19 @@
 	"For this project, you will continue using Databricks and work with real-world datasets from NASA HTTP logs. The purpose of this project is to become familiar with both structured and unstructured data, analyze large-scale data with Spark, practice more advanced wrangling and cleaning techniques, and try your hand at data transformation."
 
 	This is a good project on Explore-Transform-Load (ETL) pipeline at scale using Pyspark. In particular, a large dataset containing over 3 million records of web server logs is downloaded (i.e. extracted/sourced) from NASA's website. Each record is a raw string that is transformed into 7 distinct columns/fields using Regular Expressions. The dataset is further transformed by dropping/imputing null values. Exploratory data analysis (EDA) is then performed on the transformed dataset. Finally, the transformed dataset is saved (i.e. loaded) in the Databricks filestore system in two different formats, csv and json, for future use. 
+
+7. **Linear Regression mini-project_11-4-1**
+	"This is project on linear regression. It also delves into generating statistically significant models."
+
+8. **Logistic Regression mini-project_12-4-2**
+	"This is project on classification using logistic regression."
+
+9. **Tree Based Algorithms mini-project_13-5-1**
+	"This is project on tree based algorithms such as decision tress, random forests, and gradient boosting. Boosting is an ensemble learning technique where weak learners train the subsequent generation of learners to be stronger. This is a sequential learning process that is relatively time and resource intensive, but produces extremely useful results. Some of the highest performing boosting models are XGBoost, GBMlight, and CatBoost."
+
+10. **Clustering mini-project_16-2-6**
+	"This is a project on various clustering algorithms such a K-means, affinity propagation, DBSCAN, etc. Different techniques for selecting the number of clusters such as Elbow, Silhoutte, and Gap statistic methods are also analyzed."
+
+11. **Anomaly Detection mini-project_16-4-1**
+	"This is a project on anomaly detection for univariate and multivariate datasets. Various methods such a basic statistical analysis, random forest, clustering based local outlier factor (CBLOF), and autoencoders are studied."
+	
