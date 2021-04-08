@@ -47,4 +47,9 @@
 
 11. **Anomaly Detection mini-project_16-4-1**
 	"This is a project on anomaly detection for univariate and multivariate datasets. Various methods such a basic statistical analysis, random forest, clustering based local outlier factor (CBLOF), and autoencoders are studied."
-	
+
+12. **Recommendation Systems mini-project_17-4-1**
+	"In this project we will use the IMDb and Netflix movie datasets to generate a movie recommender system using a global recommendation system, a content based recommendation system, a collaborative filtering system, and a deep learning based hybrid recommender system."	
+
+13. **Time Series Analysis mini_project_18-5-1**
+	"In this project we predict IBM's stock price using traditional statistical models such as ARIMA as well as using deep learning based models such as LSTM."
