@@ -1,7 +1,7 @@
 # Machine Learning Mini-Projects as part of UCSDX Machine Learning Engineer Bootcamp
 
 ### Basic Info:
-Most of these mini-projects are done in Colab and projects 5,6, & 14 are done in Databricks (i.e. Spark/SQL related ones).
+* Most of these mini-projects are done in Colab and projects 5,6, & 14 are done in Databricks (i.e. Spark/SQL related ones).
 ---
 
 ### Project Information:
